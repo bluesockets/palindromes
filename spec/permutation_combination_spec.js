@@ -1,7 +1,7 @@
 const PalindromeApp = require('../app/PalindromeApp')
 
 
-describe("Palindrome Suite", () => {
+describe("Palindrome Count Suite", () => {
 
   it(`["one", "two", "three", "four"] returns 0`, () => {
 

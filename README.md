@@ -1,4 +1,4 @@
-### Palindrome Game
+# Palindrome Game
 
 Create a program that given a list of names (words), counts the number of palindromes made from combining them in different ways.
 
@@ -23,13 +23,13 @@ Install node version manager https://github.com/creationix/nvm by following thos
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.2/install.sh | bash
 ```
 
-The project uses node 8.1.3. Install it like like :
+The project uses node 8.1.3. Install it with nvm using the following command :
 
 ```
 nvm install 8.1.3
 ```
 
-Then let node pull down all the project dependencies then you can install with:
+From the project root in terminal session install project dependencies with the following command:
 
 ```
 npm install
@@ -38,13 +38,13 @@ npm install
 
 ## Unit tests
 
-install jasmine-node
+Install jasmine-node
 
 ```
 sudo npm install jasmine-node -g
 ```
 
-Then from the project root run npm test:
+Then from the project root run test with:
 
 ```
 npm test

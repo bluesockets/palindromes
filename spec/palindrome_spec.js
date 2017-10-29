@@ -1,7 +1,7 @@
 const PalindromeService = require('../services/PalindromeService')
 
 
-describe("Palindrome Suite", () => {
+describe("Palindrome definition Suite", () => {
 
   it(`"madam" is a palindrome`, () => {
 
