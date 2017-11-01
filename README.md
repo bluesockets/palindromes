@@ -1,6 +1,6 @@
 # Palindrome Game
 
-Create a program that given a list of names (words), counts the number of palindromes made from combining them in different ways.
+Let's create a program that given a list of names (words), counts the number of palindromes made from combining them in different ways.
 
 ## Assumptions:
 
